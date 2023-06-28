@@ -1,0 +1,8 @@
+Client ID
+1093648335261-aefo1nsm2ksj1tpeov9upao3tajraddg.apps.googleusercontent.com
+
+Client Secret
+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
+
+API Key
+AIzaSyAG9GIdwWnAm9PkfUGS38EwslCha5_OdDk
